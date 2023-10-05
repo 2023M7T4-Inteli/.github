@@ -10,11 +10,6 @@ Apoiar a instituição com a implementação de um ERP, desenvolvendo os alunos 
 Realizar a implantação do ERP SAP Business One em uma empresa real, utilizando metodologia ÁGIL.
 
 
-## 🧩 O público-alvo:
-
-...
-
-
 ## 💻 Implantação de sistemas de gestão empresarial:
 
 - Grupo 1 - G1 tecnologia
