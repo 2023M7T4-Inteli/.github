@@ -14,16 +14,21 @@ Realizar a implantação do ERP SAP Business One em uma empresa real, utilizando
 
 ### (Aviso: Devido a confidencialidade dos dados do parceiro, os repositórios abaixo estão privados para acesso somente pelo parceiro G2):
 - Grupo 1 - G1 tecnologia
-  - Link do repositório: https://github.com/2023M7T4-Inteli/grupo1
+  - Link do repositório: https://github.com/InteliProjects/2023M7T4-Inteli-grupo1
 
 - Grupo 2 - SAPIENS
-  - Link do repositório: https://github.com/2023M7T4-Inteli/grupo2
+  - Link do repositório: https://github.com/InteliProjects/2023M7T4-Inteli-grupo2
 
 - Grupo 3 - sapeX
-  - Link do repositório: https://github.com/2023M7T4-Inteli/grupo3
+  - Link do repositório: https://github.com/InteliProjects/2023M7T4-Inteli-grupo3
 
 - Grupo 4 - SAP's
-  - Link do repositório: https://github.com/2023M7T4-Inteli/grupo4
+  - Link do repositório: https://github.com/InteliProjects/2023M7T4-Inteli-grupo4
 
 - Grupo 5 - ProSAP
-  - Link do repositório: https://github.com/2023M7T4-Inteli/grupo5
+  - Link do repositório: https://github.com/InteliProjects/2023M7T4-Inteli-grupo5
+
+
+
+
+
